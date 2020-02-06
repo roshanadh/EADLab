@@ -6,13 +6,13 @@
 
 **Submitted by** : Roshan Adhikari (_2016SE28_)
 
-### Theory
+## Theory
 
 Git is a free and open source distributed version control system which is popularly used for tracking changes in source code during a software development lifecycle. Git also allows coordination among developers working on the same project. Rather than have only one single place for the full version history of a software, in Git, ever developer&#39;s working copy of the code is also a repository that can contain the full history of all changes made to the software.
 
 Git is an actively maintained open source project originally developed by Linus Torvalds in 2005. Git is optimized for performance. Committing new changes, branching, merging, and comparing past versions are all optimized for performance. Along with performance, security and flexibility are also some of the prominent characteristics of Git as a version control system.
 
-### Basic Git Commands
+## Basic Git Commands
 **1.** **git init**
 ```sh
 git init [project-name]
@@ -142,6 +142,6 @@ git merge feature-branch
 
 This command merges the changes in the branch named &#39;feature-branch&#39; into the active branch.
 
-### Conclusion
+## Conclusion
 
 In this lab exercise, we learned how to use Git as a Source Code Management (SCM) tool using some of its basic commands.
