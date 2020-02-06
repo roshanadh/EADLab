@@ -142,6 +142,6 @@ git merge feature-branch
 
 This command merges the changes in the branch named &#39;feature-branch&#39; into the active branch.
 
-**Conclusion**
+#### Conclusion
 
 In this lab exercise, we learned how to use Git as a Source Code Management (SCM) tool using some of its basic commands.
