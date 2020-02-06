@@ -7,7 +7,7 @@
 **Submitted by** : Roshan Adhikari (_2016SE28_)
 
 ## Collaboration
-GitHub allows developers and corporations to maintain private as well as public repositories. This distinction creates the need for two different kinds of workflows for collaboration among developers.
+GitHub allows developers and corporations to maintain private as well as public repositories. This creates the need for two distinct workflows for collaboration among developers.
 
 ## Collaboration in Private Repositories
 GitHub allows developers to collaborate in  private repositories using the 'Add Collaborator' option under the settings of each repository.
