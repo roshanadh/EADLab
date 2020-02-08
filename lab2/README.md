@@ -26,7 +26,7 @@ The Pull Request is sent to the upstream, which is maintained by a different dev
 This way, many developers can contribute to a single repository as collaborators.
 
 ![Collaboration in Public Repositories](https://github.com/roshanadh/EADLab/blob/master/lab2/res/workflow.png)
-*[Image Source](https://github.com/Rafase282/My-FreeCodeCamp-Code/wiki/Lesson-Save-your-Code-Revisions-Forever-with-Git)*
+[Image Source](https://github.com/Rafase282/My-FreeCodeCamp-Code/wiki/Lesson-Save-your-Code-Revisions-Forever-with-Git)
 
 ## Conclusion
 
