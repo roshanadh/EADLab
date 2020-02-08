@@ -11,7 +11,7 @@ Maintained by Roshan Adhikari, ***2016SE28***.
   * [Revisit Inheritance in Java](https://github.com/roshanadh/EADLab/tree/master/lab3/object-instantiation)
     * [Interfaces](https://github.com/roshanadh/EADLab/blob/master/lab3/interface-demo/InterfaceDemo.java)
     * [Abstract Classes](https://github.com/roshanadh/EADLab/blob/master/lab3/abstract-class-demo/AbstractClassDemo.java)
-  * [Java Design Patterns](https://github.com/roshanadh/EADLab/tree/master/lab3)
+  * [Java Design Patterns](https://github.com/roshanadh/EADLab/tree/master/lab3#factory-pattern-in-java)
     * [Factory Pattern](https://github.com/roshanadh/EADLab/blob/master/lab3/factory-pattern-demo/FactoryPatternDemo.java)
     * [Singleton Pattern](https://www.github.com/roshanadh/EADLab/)
       * [Early Initialization](https://www.github.com/roshanadh/EADLab/)
