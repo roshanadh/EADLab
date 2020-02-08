@@ -30,6 +30,10 @@ The Factory Method Pattern suggests that instead of using the _new_ operator to 
 
 Factory Pattern promotes loose-coupling by avoiding hard-coded instantiation calls.
 
+![Factory Pattern Class Diagram](https://github.com/roshanadh/EADLab/blob/master/lab3/res/factory-pattern.jpg)
+
+[Image Source](https://www.tutorialspoint.com/design_pattern/factory_pattern.htm)
+
 ## Conclusion
 
 In this lab exercise, we revised different Java concepts like Object Instantiation, Inheritance, Abstract Classes, and implemented the Factory Design Pattern in Java.
