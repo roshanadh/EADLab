@@ -11,6 +11,10 @@ The fundamental steps for implementing the Singleton Pattern are:
 * Make the default constructor private. This prevents other objects from creating objects of the class in question using the _new_ operator.
 * Create a static method that acts as a constructor. This method calls the private constructor to create a static object. All following calls to this method return the cached object.
 
+![Singleton Pattern Class Diagram](https://github.com/roshanadh/EADLab/blob/master/lab4/res/singleton-pattern.jpg)
+
+[Image Source](https://www.tutorialspoint.com/design_pattern/singleton_pattern.htm)
+
 Depending on the time of object creation, there are two forms of Singleton design patterns:
 * Early Instantiation
 * Lazy Instantiation
