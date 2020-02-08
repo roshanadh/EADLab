@@ -1,7 +1,7 @@
 # Enterprise Application Development
 This repo contains the reports and resources for EAD lab classes.
 
-Maintained by Roshan Adhikari, ***2016SE28***
+Maintained by Roshan Adhikari, ***2016SE28***.
 
 ## What's inside
 * [Source Code Management using Git](https://github.com/roshanadh/EADLab/tree/master/lab1)
